@@ -7,5 +7,5 @@ Based off of [Minty](https://github.com/kindawindytoday/Minty) (Commit 5edcb81e2
 
 No need to bypass protection as of 3.6, Launcher does for you.
 
-Download in [Releases]()
+Download in [Releases](https://github.com/YungSamzy/genshin-dumper/releases/latest)
 
